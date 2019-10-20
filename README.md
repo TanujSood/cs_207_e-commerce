@@ -7,7 +7,7 @@ E-Commerce website for the couurse CS-207, Ashoka University
   * Hitesh Khandelwal
   * Raunak Basu
   
-  * To run the file, follow the steps below:
+* To run the file, follow the steps below:
    * Install npm on destination folder
    * cd the folder on terminal/cmd
    * Enter command "npm run dev"
